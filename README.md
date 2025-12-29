@@ -1,8 +1,14 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
 
-Name: Stephen Janik <br/>
-Current job: Software Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 ##
+
+#### Name: Stephen Janik
+#### Current job: Software Engineer
+---
 
 #### Fields of interests:
 - Web Development
