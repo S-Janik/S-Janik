@@ -1,13 +1,12 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--<p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello!"/>
 </p>-->
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=8,20,22&height=100&section=header&text=Hello!&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=8,22&height=110&section=header&text=Hello!&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 </p>
-
 
 #### Name: Stephen Janik
 #### Current job: Software Engineer
