@@ -4,7 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello!"/>
 </p>-->
 
-##
 
 #### Name: Stephen Janik
 #### Current job: Software Engineer
