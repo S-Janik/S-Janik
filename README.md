@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Name: Stephen Janik <br/>
+Current job: Software Engineer
+##
+
+#### Fields of interests:
+- Web Development
+- Data Science
+- Machine Learning
+- HPC
+
 <!--
 **S-Janik/S-Janik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
